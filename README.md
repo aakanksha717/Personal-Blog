@@ -18,4 +18,4 @@ The application can:
 <img src="https://github.com/aakanksha717/Personal-Blog/blob/master/SS/ss%202.png" />
 <h4> ➡ Compose blogs and publish them. </h4>
 <img src="https://github.com/aakanksha717/Personal-Blog/blob/master/SS/ss%203.png" />
-<h3> The application is hosted <a href="https://young-lowlands-88940.herokuapp.com/"> here. </a>  </h3>
+<h3> The application is hosted <a href="https://pure-basin-56187.herokuapp.com/"> here. </a>  </h3>
